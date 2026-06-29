@@ -18,7 +18,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lennney&theme=algolia&column=6&margin-w=8&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-trophies.vercel.app/?username=lennney&theme=algolia&column=6&margin-w=8&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -26,9 +26,7 @@
 
 <div align="center">
 
-![lennney's GitHub stats](https://github-readme-stats.vercel.app/api?username=lennney&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33AAFF&icon_color=58A6FF&text_color=c9d1d9&ring_color=33AAFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lennney&layout=compact&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33AAFF&text_color=c9d1d9&langs_count=8)
+![lennney's GitHub stats](https://github-stats.vercel.app/api?username=lennney&show_icons=true&theme=algolia&hide_border=true&bg_color=0d1117&title_color=33AAFF&icon_color=58A6FF&text_color=c9d1d9&ring_color=33AAFF)
 
 </div>
 
