@@ -8,7 +8,6 @@
 
 ### 🧭 About Me
 
-- 🎓 Studying at **South China Normal University** & **University of Aberdeen** (Dual Degree)
 - 🤖 Obsessed with **AI Agents**, autonomous systems, and RAG pipelines
 - 🔧 Building tools that make AI more **accessible** and **practical**
 - 🌏 Contributing to high-star open source projects ([fastapi](https://github.com/fastapi/fastapi) 100k★ · [headroom](https://github.com/headroomlabs-ai/headroom) 53k★ · [CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) 22k★)
